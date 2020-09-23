@@ -7,8 +7,8 @@ struct El_Spiska {
 typedef struct El_Spiska El_Spiska;
 
 struct Spisok {
-    El_Spiska* head; // указатель на голову
-    int kol; // длинна списка
+    El_Spiska* head; 
+    int kol; 
 };
 typedef struct Spisok Spisok;
 
